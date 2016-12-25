@@ -1,0 +1,66 @@
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\Muhasebe.exe.config
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\Muhasebe.exe
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\Muhasebe.pdb
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.Form1.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.Properties.Resources.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.csproj.GenerateResource.Cache
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.exe
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.pdb
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.csprojResolveAssemblyReference.cache
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.SifrePanel.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.YeniKayit.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.CariEkle.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\Muhasebe.exe.manifest
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\Muhasebe.application
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.TrustInfo.xml
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.exe.manifest
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.application
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.KartView.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.FaturaGiris.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.OdemeGiris.resources
+C:\Users\cagda_000\Documents\Visual Studio 2013\Projects\Muhasebe\Muhasebe\bin\Release\System.Web.Extensions.dll
+C:\Users\cagda_000\documents\visual studio 2013\Projects\Muhasebe\Muhasebe\obj\Release\Muhasebe.AboutBox.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe.config
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.exe
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.pdb
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe.manifest
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.application
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.pdb
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\bin\Release\System.Web.Extensions.dll
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.csprojResolveAssemblyReference.cache
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.AboutBox.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.CariEkle.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.OdemeGiris.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.FaturaGiris.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.Form1.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.KartView.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.Properties.Resources.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.SifrePanel.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.YeniKayit.resources
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.csproj.GenerateResource.Cache
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.TrustInfo.xml
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.exe.manifest
+C:\Users\Ogül\Desktop\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.application
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe.config
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.exe
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.pdb
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe.manifest
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.application
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.exe
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\Muhasebe.pdb
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\bin\Release\System.Web.Extensions.dll
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.csprojResolveAssemblyReference.cache
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.AboutBox.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.CariEkle.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.OdemeGiris.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.FaturaGiris.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.Form1.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.KartView.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.Properties.Resources.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.SifrePanel.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.YeniKayit.resources
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.csproj.GenerateResource.Cache
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.TrustInfo.xml
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.exe.manifest
+C:\Users\CemalYaran\Downloads\on-muhasebe-master\Muhasebe\obj\Release\Muhasebe.application
